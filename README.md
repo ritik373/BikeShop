@@ -1,3 +1,3 @@
-# README
+# TEST BIKE SHOP
 
-This is a test app!
+This is a test app
